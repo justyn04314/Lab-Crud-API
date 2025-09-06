@@ -60,7 +60,7 @@ Courses:
   - DELETE {{baseUrl}}/courses/:id → Delete course by ID
 
 Conclusion write-up (3–5 sentences): your reflections on errors faced and lessons learned.
-- ## 📝 Reflection, Challenges Faced, and Lessons Learned
+-  Reflection, Challenges Faced, and Lessons Learned
 
 In this Activity, I learned how to make a CRUD API using Express.js and MySQL. The biggest challenge I faced was that XAMPP would not run properly. When I changed the ports, MySQL 
 worked but phpMyAdmin would not open. I kept trying until I found a way to fix it so both could run. I also had some errors in Postman when testing, like duplicate emails or 
