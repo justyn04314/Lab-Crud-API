@@ -64,7 +64,7 @@ Conclusion write-up (3–5 sentences): your reflections on errors faced and less
 
 In this Activity, I learned how to make a CRUD API using Express.js and MySQL. The biggest challenge I faced was that XAMPP would not run properly. When I changed the ports, MySQL 
 worked but phpMyAdmin would not open. I kept trying until I found a way to fix it so both could run. I also had some errors in Postman when testing, like duplicate emails or 
-missing fields, but I realized these were expected because of the validation in the code. From this activity, I learned how CRUD works with HTTP methods, 
+missing fields, but I realized these were expected because of the validation in the code. From this activity, I learned how CRUD works, 
 how to organize code with routes and controllers, and how to test APIs in Postman. 
 
 
